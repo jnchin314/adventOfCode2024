@@ -5,3 +5,4 @@ https://adventofcode.com/2024/about
 
 Thanks Nick for the suggestion
 # adventofcode
+# adventofcode2025
